@@ -1,0 +1,1770 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+      <title>Easy Server Bd</title>
+      <meta name="keywords" content="HTML5 Template" />
+      <meta name="description" content="Easy Server Bd - eCommerce Template">
+      <meta name="author" content="D-THEMES">
+      <!-- Favicon -->
+      <link rel="icon" type="image/png" href="images/icons/favicon.png">
+      <!-- Preload Font -->
+      <link rel="preload" href="fonts/riode115b.ttf?5gap68" as="font" type="font/woff2" crossorigin="anonymous">
+      <link rel="preload" href="vendor/fontawesome-free/webfonts/fa-solid-900.woff2" as="font" type="font/woff2"
+         crossorigin="anonymous">
+      <link rel="preload" href="vendor/fontawesome-free/webfonts/fa-brands-400.woff2" as="font" type="font/woff2"
+         crossorigin="anonymous">
+      <script>
+         WebFontConfig = {
+             google: { families: [ 'Poppins:300,400,500,600,700,800' ] }
+         };
+         ( function ( d ) {
+             var wf = d.createElement( 'script' ), s = d.scripts[ 0 ];
+             wf.src = 'js/webfont.js';
+             wf.async = true;
+             s.parentNode.insertBefore( wf, s );
+         } )( document );
+      </script>
+      <link rel="stylesheet" type="text/css" href="vendor/fontawesome-free/css/all.min.css">
+      <link rel="stylesheet" type="text/css" href="vendor/animate/animate.min.css">
+      <!-- Plugins CSS File -->
+      <link rel="stylesheet" type="text/css" href="vendor/magnific-popup/magnific-popup.min.css">
+      <link rel="stylesheet" type="text/css" href="vendor/owl-carousel/owl.carousel.min.css">
+      <link rel="stylesheet" type="text/css" href="vendor/sticky-icon/stickyicon.css">
+      <!-- Main CSS File -->
+      <link rel="stylesheet" type="text/css" href="css/demo13.min.css">
+      <link rel="stylesheet" type="text/css" href="css/custom.css">
+   </head>
+   <body>
+      <div class="page-wrapper">
+         <h1 class="d-none">Easy Server Bd</h1>
+         <header class="header header-transparent">
+            <div class="header-middle sticky-header fix-top sticky-content">
+               <div class="container-fluid">
+                  <div class="header-left">
+                     <a href="#" class="mobile-menu-toggle">
+                     <i class="d-icon-bars2"></i>
+                     </a>
+                     <a href="demo13.html" class="logo mr-0 mr-sm-4 mr-lg-6 mr-xl-10">
+                     <img src="images/demos/demo13/logo.png" alt="logo" width="154" height="43" />
+                     </a>
+                  </div>
+                  <div class="header-right">
+                     <!-- End Logo -->
+                     <nav class="main-nav">
+                        <ul class="menu">
+                           <li class="active">
+                              <a href="#home">Home</a>
+                           </li>
+                           <li class="">
+                              <a href="#our-services">Our Services</a>
+                           </li>
+                           <li class="">
+                              <a href="#about-us">About Us</a>
+                           </li>
+                           <li class="">
+                              <a href="#contact-us">Contact Us</a>
+                           </li>
+                           <li class="">
+                              <a href="#contact-us">Login/Registration</a>
+                           </li>
+                        </ul>
+                     </nav>
+                     <!-- <span class="divider d-lg-show"></span> -->
+                     <!-- End Divider -->
+                     <!-- <div class="header-search hs-toggle d-lg-show">
+                        <a href="#" class="search-toggle" title="search-toggle">
+                            <i class="d-icon-search"></i>
+                        </a>
+                        <form action="#" class="input-wrapper">
+                            <input type="text" class="form-control" name="search" autocomplete="off"
+                                placeholder="Search your keyword..." required />
+                            <button class="btn btn-search" type="submit" title="submit-button">
+                                <i class="d-icon-search"></i>
+                            </button>
+                        </form>
+                        </div> -->
+                     <!-- End Header Search -->
+                  </div>
+               </div>
+            </div>
+         </header>
+         <!-- End Header -->
+         <main class="main home">
+            <div class="page-content">
+               <section
+                  class="intro-slider animation-slider owl-carousel owl-nav-arrow owl-nav-fade owl-theme row cols-1 gutter-no"
+                  data-owl-options="{
+                  'items': 1,
+                  'dots': false,
+                  'nav': true,
+                  'loop': true,
+                  'autoplay': true
+                  }">
+                  <div class="intro-slide1 banner banner-fixed">
+                     <figure>
+                        <img src="images/banner1.jpg" alt="intro-banner" width="1903" height="1005"
+                           style="background-color: #212629" />
+                     </figure>
+                     <div class="container">
+                     </div>
+                  </div>
+                  <div class="intro-slide2 banner banner-fixed">
+                     <figure>
+                        <img src="images/demos/demo13/slides/2.jpg" alt="intro-banner" width="1903" height="1005"
+                           style="background-color: #abacb1" />
+                     </figure>
+                     <div class="container">
+                     </div>
+                  </div>
+                  <div class="intro-slide3 banner banner-fixed"
+                     style="background-image: url(images/demos/demo13/slides/3.jpg); background-color: #423d3a">
+                     <figure>
+                        <img src="images/demos/demo13/slides/3.jpg" alt="intro-banner" width="1903" height="1005"
+                           style="background-color: #423d3a" />
+                     </figure>
+                     <div class="container">
+                     </div>
+                  </div>
+               </section>
+               <section class="product-wrapper container mt-5 pt-3 pb-5 appear-animate">
+                  <div class="tab tab-nav-simple tab-nav-center">
+                     <div class="pl-4 pr-4 text-center">
+                        <h1 class="page-title font-weight-bold lh-1 text-white text-capitalize primary-text text-center" style="text-align:center !important">Our Services</h1>
+                     </div>
+                  </div>
+               </section>
+               <section class="product-wrapper container  pt-8 pb-6 appear-animate">
+                  <center><span class="theme-text text-center service-title">Proffesional Chef List</span></center>
+                  <br><br>  
+                  <div class="owl-carousel owl-theme row owl-nav-full cols-xl-5 cols-lg-4 cols-md-3 cols-2"
+                     data-owl-options="{
+                     'items': 4,
+                     'nav': true,
+                     'dots': false,
+                     'margin': 20,
+                     'loop': true,
+                     'autoplay': true,
+                     'autoplayTimeout':4000,
+                     'autoplayHoverPause':true,
+                     'responsive': {
+                     '0': {
+                     'items': 1
+                     },
+                     '768': {
+                     'items': 3
+                     },
+                     '992': {
+                     'items': 4
+                     },
+                     '1200': {
+                     'items': 4
+                     }
+                     }
+                     }">
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 001</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn" rel-toggle="tooltip" data-toggle="modal" data-target="#quickview">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 002</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 003</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 004</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 005</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 006</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                  </div>
+               </section>
+
+               <!-- Start -->
+               <section class="product-wrapper container  pt-8 pb-6 appear-animate">
+                  <center><span class="theme-text text-center service-title">Proffesional Assistant Chef List</span></center>
+                  <br><br>  
+                  <div class="owl-carousel owl-theme row owl-nav-full cols-xl-5 cols-lg-4 cols-md-3 cols-2"
+                     data-owl-options="{
+                     'items': 4,
+                     'nav': true,
+                     'dots': false,
+                     'margin': 20,
+                     'loop': true,
+                     'autoplay': true,
+                     'autoplayTimeout':4000,
+                     'autoplayHoverPause':true,
+                     'responsive': {
+                     '0': {
+                     'items': 1
+                     },
+                     '768': {
+                     'items': 3
+                     },
+                     '992': {
+                     'items': 4
+                     },
+                     '1200': {
+                     'items': 4
+                     }
+                     }
+                     }">
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 001</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 002</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 003</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 004</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 005</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 006</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                  </div>
+               </section>
+               <!-- End -->
+
+
+               <!-- Start -->
+               <section class="product-wrapper container  pt-8 pb-6 appear-animate">
+                  <center><span class="theme-text text-center service-title">Proffesional Waiter List</span></center>
+                  <br><br>  
+                  <div class="owl-carousel owl-theme row owl-nav-full cols-xl-5 cols-lg-4 cols-md-3 cols-2"
+                     data-owl-options="{
+                     'items': 4,
+                     'nav': true,
+                     'dots': false,
+                     'margin': 20,
+                     'loop': true,
+                     'autoplay': true,
+                     'autoplayTimeout':4000,
+                     'autoplayHoverPause':true,
+                     'responsive': {
+                     '0': {
+                     'items': 1
+                     },
+                     '768': {
+                     'items': 3
+                     },
+                     '992': {
+                     'items': 4
+                     },
+                     '1200': {
+                     'items': 4
+                     }
+                     }
+                     }">
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 001</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 002</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 003</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 004</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 005</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 006</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                  </div>
+               </section>
+               <!-- End -->
+
+
+               <!-- Start -->
+               <section class="product-wrapper container  pt-8 pb-6 appear-animate">
+                  <center><span class="theme-text text-center service-title">Proffesional Dish Washer List</span></center>
+                  <br><br>  
+                  <div class="owl-carousel owl-theme row owl-nav-full cols-xl-5 cols-lg-4 cols-md-3 cols-2"
+                     data-owl-options="{
+                     'items': 4,
+                     'nav': true,
+                     'dots': false,
+                     'margin': 20,
+                     'loop': true,
+                     'autoplay': true,
+                     'autoplayTimeout':4000,
+                     'autoplayHoverPause':true,
+                     'responsive': {
+                     '0': {
+                     'items': 1
+                     },
+                     '768': {
+                     'items': 3
+                     },
+                     '992': {
+                     'items': 4
+                     },
+                     '1200': {
+                     'items': 4
+                     }
+                     }
+                     }">
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 001</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 002</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 003</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 004</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 005</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                     <!-- Start -->
+                     <div class="product product-classic">
+                        <figure class="product-media">
+                           <a href="demo13-product.html">
+                           <img src="images/img.png" alt="product">
+                           </a>
+                        </figure>
+                        <div class="product-details text-center">
+                           <h3 class="product-name">
+                              <a href="#">Name : Demo</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Experience : 2 Years</a>
+                           </h3>
+                           <h3 class="product-name">
+                              <a href="#">Salary : 20,000</a>
+                           </h3>
+                           <h3 class="product-name id">
+                              <a href="#">ID : ESB 006</a>
+                           </h3>
+                           <div class="ratings-container text-center">
+                              <div class="ratings-full">
+                                 <span class="ratings" style="width:100%"></span>
+                                 <span class="tooltiptext tooltip-top"></span>
+                              </div>
+                           </div>
+                           <div class="row product-btn">
+                              <div class="col-6">
+                                 <button class="details-btn detail-quick">View Details</button>
+                              </div>
+                              <div class="col-6">
+                                 <button class="details-btn">Hire Now</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <!-- End -->
+                  </div>
+               </section>
+               <!-- End -->
+
+               <section class="container bg-gray mt-10 about-us-container">
+                   <center><h2 class="pt-10 pb-5">About Us</h2></center>
+                   <div class="row both-contain">
+                       <div class="col-md-6 pl-10 pb-10 pr-5">
+                           <iframe style="width: 100%;" height="315" src="https://www.youtube.com/embed/b4_oCypvRN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                       </div>
+                       <div class="col-md-6 pr-10 text-justify">
+                           Demo Text Demo Text Demo 
+Text Demo Text Demo Text 
+Demo Text Demo Text Demo 
+Text Demo Text Demo Text 
+Demo Text Demo Text Demo 
+Text Demo Text Demo Text 
+Demo Text Demo Text Demo 
+TextDemo Text Demo Text Demo 
+Text Demo Text Demo Text 
+Demo Text Demo Text Demo 
+Text Demo Text Demo Text 
+Demo Text Demo Text Demo 
+Text Demo Text Demo Text 
+Demo Text Demo Text Demo 
+TextDemo Text Demo Text Demo 
+Text Demo Text Demo Text 
+Demo Text Demo Text Demo 
+Text Demo Text Demo Text 
+Demo Text Demo Text Demo 
+Text Demo Text Demo Text 
+Demo Text Demo Text Demo 
+TextDemo Text Demo Text Demo 
+Text Demo Text Demo Text 
+Demo Text Demo Text Demo 
+Text Demo Text Demo Text 
+Demo Text Demo Text Demo 
+Text Demo Text Demo Text 
+Demo Text Demo Text Demo 
+TextDemo Text Demo Text Demo 
+Text Demo Text Demo Text 
+Demo Text Demo Text Demo 
+Text Demo Text Demo Text 
+Demo Text Demo Text Demo 
+Text Demo Text Demo Text 
+Demo Text Demo Text Demo 
+Text
+                       </div>
+                   </div>
+               </section>
+
+               <section class="banner banner-cta parallax mt-10 demo-section" style="background-color: #fff"
+                 >
+                  <div class="container">
+                  </div>
+               </section>
+
+               <section class="container pt-10 mt-10 pb-10">
+                   <center><h1>আপনি একজন দক্ষ সার্ভিস ম্যান?</h1></center>
+                   <center><h1>Server BD  বিডি তে ক্যারিয়ার গড়তে চান?</h1></center>
+                  <center> <button class=" btn apply-btn">Apply Now</button></center>
+               </section>
+               
+               <section class="banner banner-cta parallax mt-10" style="background-color: #fff"
+                 >
+                  <div class="container">
+                     <div class="row">
+                        <div class="col-md-8">
+                           <h2>Download our app</h2>
+                           <div class="col-md-12">
+                              <h6>Get connected with nearest available 
+                                 verified and skilled domestic helper 
+                                 instantly. Get our app on both Android 
+                                 and iOS version</h6>
+                                 <div>
+                                    <a href="/"><img src="./images/google.png" class="store-logo"></a>
+                                    <a href="/"><img src="./images/apple.png"  class="store-logo"></a>
+                                 </div>
+                           </div>
+                        </div>
+                        <div class="col-md-4 demo-app">
+                           <img src="./images/app_demo.png" class="img-fluid">
+                        </div>
+                     </div>
+                  </div>
+               </section>
+              
+               <div class="" style="background-color: #fff;">
+                  <div class="container">
+                     <center><h1>Clients Says</h1></center>
+                     <div class="owl-carousel owl-theme row brand-carousel cols-xl-6 cols-lg-5 cols-md-4 cols-sm-3 cols-2 gutter-no client-says"
+                        data-owl-options="{
+                        'items': 3,
+                        'nav': true,
+                        'dots': false,
+                        'autoplay': true,
+                        'margin': 30,
+                        'center': true,
+                        'loop': true,
+                        'responsive': {
+                        '0': {
+                        'items': 1
+                        },
+                        '576': {
+                        'items': 2
+                        },
+                        '768': {
+                        'items': 3
+                        },
+                        '992': {
+                        'items': 3
+                        },
+                        '1200': {
+                        'items': 3
+                        }
+                        }
+                        }">
+                        <div class="item">
+                           <center><img src="./images/boy.png" class="img-fluid client-image"></center>
+                           <div class="info text-center">
+                              <h3 class="client-name">Client Name 1</h3>
+                              <span class="client-desc">One of the best Easy server BD One of the best Easy server BD</span>
+                           </div>
+                        </div>
+
+                        <div class="item">
+                           <center><img src="./images/boy.png" class="img-fluid client-image"></center>
+                           <div class="info text-center">
+                              <h3 class="client-name">Client Name 2</h3>
+                              <span class="client-desc">One of the best Easy server BD One of the best Easy server BD</span>
+                           </div>
+                        </div>
+
+                        <div class="item">
+                           <center><img src="./images/boy.png" class="img-fluid client-image"></center>
+                           <div class="info text-center">
+                              <h3 class="client-name">Client Name 3</h3>
+                              <span class="client-desc">One of the best Easy server BD One of the best Easy server BD</span>
+                           </div>
+                        </div>
+
+                        <div class="item">
+                           <center><img src="./images/boy.png" class="img-fluid client-image"></center>
+                           <div class="info text-center">
+                              <h3 class="client-name">Client Name 4</h3>
+                              <span class="client-desc">One of the best Easy server BD One of the best Easy server BD</span>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+
+                  <div class="container mt-4 mb-4 pb-5 contact-us-bg" >
+                     <center><h2 class="pt-4 pb-4">Contact Us</h2></center>
+                     <div class="row">
+                     <div class="col-md-6 pl-2">
+                        <form method="post" action="" class="pb-5 pl-5 pr-5">
+                           <input type="text" name="full_name" class="form-control" placeholder="Full Name"><br>
+                           <input type="email" name="email" class="form-control" placeholder="Email"><br>
+                           <input type="text" name="contact_number" class="form-control" placeholder="Contact Number"><br>
+                           <textarea class="form-control" name="description" placeholder="Description" rows="5"></textarea><br>
+                           <button class="btn btn-primary" style="background-color: #000;width: 100%;">Submit</button>
+                        </form>
+                     </div>
+                     <div class="col-md-6">
+                        <div class="pb-5 pl-5 pr-5">
+                           <iframe style="width: 100%;height: 100%;min-height: 400px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.8609948374487!2d90.39748391550778!3d23.787963793256033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c7f9f5b6d041%3A0x655fc272114a9b20!2sTechdyno%20BD!5e0!3m2!1sen!2sbd!4v1642839701540!5m2!1sen!2sbd"  style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </main>
+         <!-- End Main -->
+         <footer class="footer">
+            <div class="container">
+   
+               <!-- End FooterTop -->
+               <div class="footer-middle">
+                  <div class="row">
+                     <div class="col-lg-3 col-md-6">
+                        <div class="widget widget-contact">
+                              <img src="images/demos/demo13/footer-logo.png" alt="logo-footer" class="img-fluid" style="    max-width: 120px;"/>
+                           <div class="text-justify text-white text-justify">
+                              Lorem ipsum dolor sit amet, 
+consectetuer adipiscing elit, 
+sed diam nonummy nibh 
+euismod tincidunt ut laoreet 
+dolore magna aliquam erat 
+volutpat. Ut wisi enim ad 
+minim veniam, quis nostrud 
+                           </div>
+                        </div>
+                        <!-- End Widget -->
+                     </div>
+                     <div class="col-lg-3 col-md-6 mt-3 col-6">
+                        <div class="widget ml-lg-4">
+                           <h4 class="widget-title">Quick Link</h4>
+                           <ul class="widget-body">
+                              <li>
+                                 <a href="#about-us">About Us</a>
+                              </li>
+                              <li>
+                                 <a href="#contact-us">Contact Us</a>
+                              </li>
+                              <li>
+                                 <a href="#privacy-policy">Privacy Policy</a>
+                              </li>
+                              <li>
+                                 <a href="#terms-of-use">Terms of use</a>
+                              </li>
+                           </ul>
+                        </div>
+                        <!-- End Widget -->
+                     </div>
+                     <div class="col-lg-3 col-md-6 mt-3 col-6">
+                        <div class="widget ml-lg-4">
+                           <h4 class="widget-title">Services</h4>
+                           <ul class="widget-body">
+                              <li>
+                                 <a href="/Service-1">Service 1</a>
+                              </li>
+                              <li>
+                                 <a href="/Service-2">Service 2</a>
+                              </li>
+                              <li>
+                                 <a href="/Service-3">Service 3</a>
+                              </li>
+                              <li>
+                                 <a href="/Service-4">Service 4</a>
+                              </li>
+                           </ul>
+                        </div>
+                        <!-- End Widget -->
+                     </div>
+                     <div class="col-lg-3 col-md-6 mt-3">
+                        <div class="widget widget-contact">
+                           <h4 class="widget-title">Find Us</h4>
+                           <ul class="widget-body">
+                              <li>
+                                 <label> <a href="tel:+880195-195461">+880195-195461</a></label>
+                                
+                              </li>
+                              <li>
+                                 <label><a href="mailto:email@easyserverbd.com">email@easyserverbd.com</a></label>
+                                 
+                              </li>
+                              <li>
+                                 <label>Address:</label>
+                              
+                              </li>
+                              <li>
+                                 <div class="social-links">
+                                    <a href="#" title="social-link" class="social-link"><img class="social-image" src="./images/twitter.png"></a>
+                                    <a href="#" title="social-link" class="social-link"><img class="social-image" src="./images/youtube.png"></a>
+                                    <a href="#" title="social-link" class="social-link"><img class="social-image" src="./images/facebook.png"></a>
+                                    <a href="#" title="social-link" class="social-link"><img class="social-image" src="./images/linkedin.png"></a>
+                                 </div>
+                              </li>
+                           </ul>
+                        </div>
+                        <!-- End Widget -->
+                     </div>
+                  </div>
+               </div>
+               <!-- End FooterMiddle -->
+               <div class="footer-bottom">
+                  <div class="footer-left">
+                     <figure class="payment">
+                        <img src="images/payment.png" alt="payment" width="159" height="29" />
+                     </figure>
+                  </div>
+                  <div class="footer-center">
+                     <p class="copyright">Easy Server Bd eCommerce &copy; 2022. All Rights Reserved</p>
+                  </div>
+               </div>
+               <!-- End FooterBottom -->
+            </div>
+         </footer>
+         <!-- End Footer -->
+      </div>
+      <!-- Sticky Footer -->
+
+      <!-- Scroll Top -->
+      <a id="scroll-top" href="#top" title="Top" role="button" class="scroll-top"><i class="d-icon-arrow-up"></i></a>
+      <!-- MobileMenu -->
+      <div class="mobile-menu-wrapper">
+         <div class="mobile-menu-overlay">
+         </div>
+         <!-- End Overlay -->
+         <a class="mobile-menu-close" href="#"><i class="d-icon-times"></i></a>
+         <!-- End CloseButton -->
+         <div class="mobile-menu-container scrollable">
+            <form action="#" class="input-wrapper">
+               <input type="text" class="form-control" name="search" autocomplete="off"
+                  placeholder="Search your keyword..." required />
+               <button class="btn btn-search" type="submit" title="submit-button">
+               <i class="d-icon-search"></i>
+               </button>
+            </form>
+            <!-- End Search Form -->
+            <ul class="mobile-menu mmenu-anim">
+               <li>
+                  <a href="demo13.html">Home</a>
+               </li>
+               <li>
+                  <a href="demo13-shop.html">Categories</a>
+                  <ul>
+                     <li>
+                        <a href="#">
+                        Variations 1
+                        </a>
+                        <ul>
+                           <li><a href="shop-classic-filter.html">Classic Filter</a></li>
+                           <li><a href="shop-left-toggle-sidebar.html">Left Toggle Filter</a></li>
+                           <li><a href="shop-right-toggle-sidebar.html">Right Toggle Sidebar</a></li>
+                           <li><a href="shop-horizontal-filter.html">Horizontal Filter </a>
+                           </li>
+                           <li><a href="shop-navigation-filter.html">Navigation Filter</a></li>
+                           <li><a href="shop-off-canvas-filter.html">Off-Canvas Filter </a></li>
+                           <li><a href="shop-top-banner.html">Top Banner</a></li>
+                           <li><a href="shop-inner-top-banner.html">Inner Top Banner</a></li>
+                           <li><a href="shop-with-bottom-block.html">With Bottom Block</a></li>
+                           <li><a href="shop-category-in-page-header.html">Category In Page Header</a>
+                        </ul>
+                     </li>
+                     <li>
+                        <a href="#">
+                        Variations 2
+                        </a>
+                        <ul>
+                           <li><a href="shop-grid-3cols.html">3 Columns Mode</a></li>
+                           <li><a href="shop-grid-4cols.html">4 Columns Mode</a></li>
+                           <li><a href="shop-grid-5cols.html">5 Columns Mode</a></li>
+                           <li><a href="shop-grid-6cols.html">6 Columns Mode</a></li>
+                           <li><a href="shop-grid-7cols.html">7 Columns Mode</a></li>
+                           <li><a href="shop-grid-8cols.html">8 Columns Mode</a></li>
+                           <li><a href="shop-list-mode.html">List Mode</a></li>
+                           <li><a href="shop-pagination.html">Pagination</a></li>
+                           <li><a href="shop-infinite-ajaxscroll.html">Infinite Ajaxscroll </a></li>
+                           <li><a href="shop-loadmore-button.html">Loadmore Button</a></li>
+                        </ul>
+                     </li>
+                     <li>
+                        <a href="#">
+                        Variations 3
+                        </a>
+                        <ul>
+                           <li><a href="shop-category-grid-shop.html">Category Grid Shop</a></li>
+                           <li><a href="shop-category%2bproducts.html">Category + Products</a></li>
+                           <li><a href="shop-default-1.html">Shop Default 1 </a>
+                           </li>
+                           <li><a href="shop-default-2.html">Shop Default 2</a></li>
+                           <li><a href="shop-default-3.html">Shop Default 3</a></li>
+                           <li><a href="shop-default-4.html">Shop Default 4</a></li>
+                           <li><a href="shop-default-5.html">Shop Default 5</a></li>
+                           <li><a href="shop-default-6.html">Shop Default 6</a></li>
+                           <li><a href="shop-default-7.html">Shop Default 7</a></li>
+                           <li><a href="shop-default-8.html">Shop Default 8</a></li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+               <li>
+                  <a href="demo13-product.html">Products</a>
+                  <ul>
+                     <li>
+                        <a href="#">Product Pages</a>
+                        <ul>
+                           <li><a href="product-simple.html">Simple Product</a></li>
+                           <li><a href="product-featured.html">Featured &amp; On Sale</a></li>
+                           <li><a href="product.html">Variable Product</a></li>
+                           <li><a href="product-variable-swatch.html">Variation Swatch
+                              Product</a>
+                           </li>
+                           <li><a href="product-grouped.html">Grouped Product </a></li>
+                           <li><a href="product-external.html">External Product</a></li>
+                           <li><a href="product-in-stock.html">In Stock Product</a></li>
+                           <li><a href="product-out-stock.html">Out of Stock Product</a></li>
+                           <li><a href="product-upsell.html">Upsell Products</a></li>
+                           <li><a href="product-cross-sell.html">Cross Sell Products</a></li>
+                        </ul>
+                     </li>
+                     <li>
+                        <a href="#">Product Layouts</a>
+                        <ul>
+                           <li><a href="product-vertical.html">Vertical Thumb</a></li>
+                           <li><a href="product-horizontal.html">Horizontal Thumb</a></li>
+                           <li><a href="product-gallery.html">Gallery Type</a></li>
+                           <li><a href="product-grid.html">Grid Images</a></li>
+                           <li><a href="product-masonry.html">Masonry Images</a></li>
+                           <li><a href="product-sticky.html">Sticky Info</a></li>
+                           <li><a href="product-sticky-both.html">Left & Right Sticky</a></li>
+                           <li><a href="product-left-sidebar.html">With Left Sidebar</a></li>
+                           <li><a href="product-right-sidebar.html">With Right Sidebar</a></li>
+                           <li><a href="product-full.html">Full Width Layout </a></li>
+                        </ul>
+                     </li>
+                     <li>
+                        <a href="#">Product Features</a>
+                        <ul>
+                           <li><a href="product-sale.html">Sale Countdown</a></li>
+                           <li><a href="product-hurryup.html">Hurry Up Notification </a></li>
+                           <li><a href="product-attribute-guide.html">Attribute Guide </a></li>
+                           <li><a href="product-sticky-cart.html">Add Cart Sticky</a></li>
+                           <li><a href="product-thumbnail-label.html">Labels on Thumbnail</a>
+                           </li>
+                           <li><a href="product-more-description.html">More Description
+                              Tabs</a>
+                           </li>
+                           <li><a href="product-accordion-data.html">Data In Accordion</a></li>
+                           <li><a href="product-tabinside.html">Data Inside</a></li>
+                           <li><a href="product-video.html">Video Thumbnail </a>
+                           </li>
+                           <li><a href="product-360-degree.html">360 Degree Thumbnail </a></li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+               <li>
+                  <a href="#">Pages</a>
+                  <ul>
+                     <li><a href="about-us.html">About</a></li>
+                     <li><a href="contact-us.html">Contact Us</a></li>
+                     <li><a href="account.html">Login</a></li>
+                     <li><a href="faq.html">FAQs</a></li>
+                     <li>
+                        <a href="error-404.html">Error 404</a>
+                        <ul>
+                           <li><a href="error-404.html">Error 404-1</a></li>
+                           <li><a href="error-404-1.html">Error 404-2</a></li>
+                           <li><a href="error-404-2.html">Error 404-3</a></li>
+                           <li><a href="error-404-3.html">Error 404-4</a></li>
+                        </ul>
+                     </li>
+                     <li><a href="coming-soon.html">Coming Soon</a></li>
+                  </ul>
+               </li>
+               <li>
+                  <a href="blog-classic.html">Blog</a>
+                  <ul>
+                     <li><a href="blog-classic.html">Classic</a></li>
+                     <li><a href="blog-listing.html">Listing</a></li>
+                     <li>
+                        <a href="#">Grid</a>
+                        <ul>
+                           <li><a href="blog-grid-2col.html">Grid 2 columns</a></li>
+                           <li><a href="blog-grid-3col.html">Grid 3 columns</a></li>
+                           <li><a href="blog-grid-4col.html">Grid 4 columns</a></li>
+                           <li><a href="blog-grid-sidebar.html">Grid sidebar</a></li>
+                        </ul>
+                     </li>
+                     <li>
+                        <a href="#">Masonry</a>
+                        <ul>
+                           <li><a href="blog-masonry-2col.html">Masonry 2 columns</a></li>
+                           <li><a href="blog-masonry-3col.html">Masonry 3 columns</a></li>
+                           <li><a href="blog-masonry-4col.html">Masonry 4 columns</a></li>
+                           <li><a href="blog-masonry-sidebar.html">Masonry sidebar</a></li>
+                        </ul>
+                     </li>
+                     <li>
+                        <a href="#">Mask</a>
+                        <ul>
+                           <li><a href="blog-mask-grid.html">Blog mask grid</a></li>
+                           <li><a href="blog-mask-masonry.html">Blog mask masonry</a></li>
+                        </ul>
+                     </li>
+                     <li>
+                        <a href="post-single.html">Single Post</a>
+                     </li>
+                  </ul>
+               </li>
+               <li>
+                  <a href="element.html">Elements</a>
+                  <ul>
+                     <li>
+                        <a href="#">Elements 1</a>
+                        <ul>
+                           <li><a href="element-accordions.html">Accordions</a></li>
+                           <li><a href="element-alerts.html">Alert &amp; Notification</a></li>
+                           <li><a href="element-banner-effect.html">Banner Effect
+                              </a>
+                           </li>
+                           <li><a href="element-banner.html">Banner
+                              </a>
+                           </li>
+                           <li><a href="element-blog-posts.html">Blog Posts</a></li>
+                           <li><a href="element-breadcrumb.html">Breadcrumb
+                              </a>
+                           </li>
+                           <li><a href="element-buttons.html">Buttons</a></li>
+                           <li><a href="element-cta.html">Call to Action</a></li>
+                           <li><a href="element-countdown.html">Countdown
+                              </a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li>
+                        <a href="#">Elements 2</a>
+                        <ul>
+                           <li><a href="element-counter.html">Counter </a></li>
+                           <li><a href="element-creative-grid.html">Creative Grid
+                              </a>
+                           </li>
+                           <li><a href="element-animation.html">Entrance Effect
+                              </a>
+                           </li>
+                           <li><a href="element-floating.html">Floating
+                              </a>
+                           </li>
+                           <li><a href="element-hotspot.html">Hotspot
+                              </a>
+                           </li>
+                           <li><a href="element-icon-boxes.html">Icon Boxes</a></li>
+                           <li><a href="element-icons.html">Icons</a></li>
+                           <li><a href="element-image-box.html">Image box
+                              </a>
+                           </li>
+                           <li><a href="element-instagrams.html">Instagrams</a></li>
+                        </ul>
+                     </li>
+                     <li>
+                        <a href="#">Elements 3</a>
+                        <ul>
+                           <li><a href="element-categories.html">Product Category</a></li>
+                           <li><a href="element-products.html">Products</a></li>
+                           <li><a href="element-product-banner.html">Products + Banner
+                              </a>
+                           </li>
+                           <li><a href="element-product-grid.html">Products + Grid
+                              </a>
+                           </li>
+                           <li><a href="element-product-single.html">Product Single
+                              </a>
+                           </li>
+                           <li><a href="element-product-tab.html">Products + Tab
+                              </a>
+                           </li>
+                           <li><a href="element-single-product.html">Single Product
+                              </a>
+                           </li>
+                           <li><a href="element-slider.html">Slider
+                              </a>
+                           </li>
+                           <li><a href="element-social-link.html">Social Icons </a></li>
+                        </ul>
+                     </li>
+                     <li>
+                        <a href="#">Elements 4</a>
+                        <ul>
+                           <li><a href="element-subcategory.html">Subcategory
+                              </a>
+                           </li>
+                           <li><a href="element-svg-floating.html">Svg Floating
+                              </a>
+                           </li>
+                           <li><a href="element-tabs.html">Tabs</a></li>
+                           <li><a href="element-testimonials.html">Testimonials
+                              </a>
+                           </li>
+                           <li><a href="element-titles.html">Title</a></li>
+                           <li><a href="element-typography.html">Typography</a></li>
+                           <li><a href="element-vendor.html">Vendor
+                              </a>
+                           </li>
+                           <li><a href="element-video.html">Video
+                              </a>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+               <li><a href="https://d-themes.com/buynow/riodehtml">Buy Easy Server Bd!</a></li>
+            </ul>
+            <!-- End MobileMenu -->
+         </div>
+      </div>
+      <!-- newsletter-popup type2 -->
+      <div class="newsletter-popup newsletter-pop2 mfp-hide" id="newsletter-popup">
+         <figure>
+            <img src="images/newsletter-popup2.jpg" width="500" height="264" alt="newsletter2" />
+         </figure>
+         <div class="newsletter-content">
+            <h2 class="font-weight-bolder">Join Our Mailing List</h2>
+            <p class="text-grey">Stay Informed!Monthly Tips and Discount.</p>
+            <form action="#" method="get" class="input-wrapper input-wrapper-inline input-wrapper-round">
+               <input type="email" class="form-control email" name="email" id="email2"
+                  placeholder="Email address here..." required="">
+               <button class="btn btn-dark" type="submit">SUBMIT</button>
+            </form>
+            <div class="form-checkbox justify-content-center">
+               <input type="checkbox" class="custom-checkbox" id="hide-newsletter-popup" name="hide-newsletter-popup"
+                  required />
+               <label for="hide-newsletter-popup">Don't show this popup again</label>
+            </div>
+            <div class="social-links">
+               <a href="#" title="social-link" class="social-link social-facebook fab fa-facebook-f"></a>
+               <a href="#" title="social-link" class="social-link social-twitter fab fa-twitter"></a>
+               <a href="#" title="social-link" class="social-link social-linkedin fab fa-linkedin-in"></a>
+            </div>
+         </div>
+      </div>
+      <!-- Plugins JS File -->
+      <script src="vendor/jquery/jquery.min.js"></script>
+      <script src="vendor/parallax/parallax.min.js"></script>
+      <script src="vendor/elevatezoom/jquery.elevatezoom.min.js"></script>
+      <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+      <script src="vendor/owl-carousel/owl.carousel.min.js"></script>
+      <script src="vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+      <script src="vendor/isotope/isotope.pkgd.min.js"></script>
+      <!-- Main JS File -->
+      <script src="js/main.js"></script>
+   </body>
+</html>
+
+
+
